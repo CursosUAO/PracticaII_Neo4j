@@ -1,0 +1,11 @@
+idCliente,nombre,edad,genero,email,fechaRegistro,ingresos
+C1,Laura Gómez,41,F,laura.gómez@mail.com,2023-12-29,3244.22
+C2,Carlos Pérez,33,M,carlos.pérez@mail.com,2022-08-24,4728.76
+C3,María Rodríguez,60,F,maría.rodríguez@mail.com,2023-10-22,3706.84
+C4,Andrés Martínez,50,M,andrés.martínez@mail.com,2023-01-12,1327.41
+C5,Sofía Torres,38,F,sofía.torres@mail.com,2020-04-30,3907.97
+C6,Juan Ramírez,42,F,juan.ramírez@mail.com,2021-05-11,2368.13
+C7,Valentina Moreno,31,F,valentina.moreno@mail.com,2023-01-23,1462.4
+C8,Esteban Ríos,34,F,esteban.ríos@mail.com,2020-11-19,3702.12
+C9,Camila Herrera,38,M,camila.herrera@mail.com,2022-09-04,4123.42
+C10,Luis Castro,26,M,luis.castro@mail.com,2022-08-22,4040.32
