@@ -1,6 +1,6 @@
 idProducto,nombre,categoria,precio,stock,fechaLanzamiento
 101,Café Orgánico,Grano,56.94,86,2021-08-15
-101,Café Tostado,Molido,60.92,177,2022-05-01
+102,Café Tostado,Molido,60.92,177,2022-05-01
 103,Cafetera Italiana,Accesorio,66.34,140,2022-01-10
 104,Filtro de Papel,Accesorio,77.64,200,2019-08-02
 105,Prensa Francesa,Accesorio,74.68,100,2022-04-10
